@@ -23,6 +23,8 @@
                  [org.webjars/bootstrap "4.0.0-2"]
                  [org.webjars/font-awesome "5.0.6"]
                  [reagent "0.7.0"]
+                 [reagent-utils "0.3.1"]
+                 [reagent-forms "0.5.40"]
                  [ring-webjars "0.2.0"]
                  [ring/ring-core "1.6.3"]
                  [ring/ring-defaults "0.3.1"]
