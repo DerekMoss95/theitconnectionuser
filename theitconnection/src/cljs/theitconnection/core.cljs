@@ -6,7 +6,7 @@
             [goog.events :as events]
             [goog.history.EventType :as HistoryEventType]
             [markdown.core :refer [md->html]]
-            [theitconnection.ajax :refer [load-interceptors!]]
+            ;[theitconnection.ajax :refer [load-interceptors!]]
             [cljsjs.react :as react]
             [ajax.core :refer [GET POST]])
   (:import goog.History))
@@ -19,11 +19,17 @@
      [:div.col-md-12
       [:img {:src (str js/context "/img/warning_clojure.png")}]]]])
 
-(defn send-form! [fields]
+(defn send-form! [FIELDS]
   (POST "/register"
-        {:params @fields
-         :handler #(.log js/console (str "response:" %))
+        {:params @FIELDS
+         :handler #(secretary/dispatch! "#/about")
          :error-handler #(.error js/console (str "error:" %))}))
+
+(defn send-login! [FIELDS]
+  (POST "/login"
+        {:params @FIELDS
+         :handler #(secretary/dispatch! "#/about")
+         :eror-handler #(.error js/console (str "error:" %))}))
 
 (defn register-form []
   (let [FIELDS (atom {})]
@@ -62,11 +68,37 @@
          :value (:password @FIELDS)}]]
       [:input.btn.btn-primary {:type :submit :on-click #(send-form! FIELDS) :value "Submit"}]]])))
 
+(defn login-form []
+  (let [FIELDS (atom {})]
+    (fn []
+    [:div.content
+     [:div.form.group
+      [:p "Email: "
+       [:input.form-control
+        {:type :text
+         :email :email
+         :on-change #(swap! FIELDS assoc :email (-> % .-target .-value))
+         :value (:email @FIELDS)}]]
+      [:p "Password: "
+       [:input.form-control
+        {:type :password
+         :password :password
+         :on-change #(swap! FIELDS assoc :password (-> % .-target .-value))
+         :value (:password @FIELDS)}]]
+      [:input.btn.btn-primary {:type :submit :on-click #(send-login! FIELDS) :value "Submit"}]]])))
+
+
 (defn register-page []
   [:div.container
    [:div.row
     [:div.col-md-12
      [register-form]]]])
+
+ (defn login-page []
+   [:div.container
+    [:div.row
+     [:div.col-md-12
+      [login-form]]]])
 
 (defn home-page []
   [:div.container
@@ -74,11 +106,6 @@
      [:div.row>div.col-sm-12
       [:div {:dangerouslySetInnerHTML
              {:__html (md->html docs)}}]])])
-
- (defn login-page []
-   [:div {:class "Login"}
-       [:h2 "Welcome, please log in."]
-       [:form]])
 
 (def pages
   {:home #'home-page
@@ -148,7 +175,7 @@
   (r/render [#'page] (.getElementById js/document "app")))
 
 (defn init! []
-  (load-interceptors!)
+  ;(load-interceptors!)                  
   (fetch-docs!)
   (hook-browser-navigation!)
   (mount-components))

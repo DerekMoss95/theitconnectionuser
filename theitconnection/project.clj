@@ -3,7 +3,8 @@
   :description "User Site for IT350 Database Project"
   :url "localhost/TheITConnection/user"
 
-  :dependencies [[clj-time "0.14.2"]
+  :dependencies [[bouncer "1.0.1"]
+                 [clj-time "0.14.2"]
                  [cljs-ajax "0.7.3"]
                  [compojure "1.6.0"]
                  [cprop "0.1.11"]
@@ -29,7 +30,9 @@
                  [ring/ring-core "1.6.3"]
                  [ring/ring-defaults "0.3.1"]
                  [secretary "1.2.3"]
+                 [com.novemberain/monger "3.1.0"]
                  [selmer "1.11.7"]]
+
 
   :min-lein-version "2.0.0"
   

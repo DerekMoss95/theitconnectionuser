@@ -3429,3 +3429,360 @@ notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnec
 Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
 [32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.692 seconds.[0m
 notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.968 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.699 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.731 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.594 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.544 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.497 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.539 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.505 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.514 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.474 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.611 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.514 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.455 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.472 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.464 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:73  column:28  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/session[0m
+
+  [36m69[0m  [36m     [register-form]]]])[0m
+  [36m70[0m  [36m[0m
+  [36m71[0m  [36m(defn home-page [][0m
+  [36m72[0m  [36m  [:div.container[0m
+  [33m73[0m  [1m   (when-let [docs (:docs @session)][0m
+  [0m  [0m  [33m                           ^--- Use of undeclared Var theitconnection.core/session[0m
+  [36m74[0m  [36m     [:div.row>div.col-sm-12[0m
+  [36m75[0m  [36m      [:div {:dangerouslySetInnerHTML[0m
+  [36m76[0m  [36m             {:__html (md->html docs)}}]])])[0m
+  [36m77[0m  [36m[0m
+  [36m78[0m  [36m (defn login-page [][0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:91  column:19  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/session[0m
+
+  [36m87[0m  [36m   :login #'login-page[0m
+  [36m88[0m  [36m   })[0m
+  [36m89[0m  [36m[0m
+  [36m90[0m  [36m(defn page [][0m
+  [33m91[0m  [1m  [(pages (:page @session))])[0m
+  [0m  [0m  [33m                  ^--- Use of undeclared Var theitconnection.core/session[0m
+  [36m92[0m  [36m[0m
+  [36m93[0m  [36m(defn nav-link [uri title page][0m
+  [36m94[0m  [36m  [:li.nav-item[0m
+  [36m95[0m  [36m   {:class (when (= page (:page @session)) "active")}[0m
+  [36m96[0m  [36m   [:a.nav-link {:href uri} title]])[0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:95  column:34  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/session[0m
+
+  [36m 91[0m  [36m  [(pages (:page @session))])[0m
+  [36m 92[0m  [36m[0m
+  [36m 93[0m  [36m(defn nav-link [uri title page][0m
+  [36m 94[0m  [36m  [:li.nav-item[0m
+  [33m 95[0m  [1m   {:class (when (= page (:page @session)) "active")}[0m
+  [0m   [0m  [33m                                 ^--- Use of undeclared Var theitconnection.core/session[0m
+  [36m 96[0m  [36m   [:a.nav-link {:href uri} title]])[0m
+  [36m 97[0m  [36m[0m
+  [36m 98[0m  [36m(defn navbar [][0m
+  [36m 99[0m  [36m  [:nav.navbar.navbar-dark.bg-primary.navbar-expand-md[0m
+  [36m100[0m  [36m   {:role "navigation"}[0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:119  column:10  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/session[0m
+
+  [36m115[0m  [36m;; Routes[0m
+  [36m116[0m  [36m(secretary/set-config! :prefix "#")[0m
+  [36m117[0m  [36m[0m
+  [36m118[0m  [36m(secretary/defroute "/" [][0m
+  [33m119[0m  [1m  (swap! session assoc :page :home))[0m
+  [0m   [0m  [33m         ^--- Use of undeclared Var theitconnection.core/session[0m
+  [36m120[0m  [36m[0m
+  [36m121[0m  [36m (secretary/defroute "/about" [][0m
+  [36m122[0m  [36m   (swap! session assoc :page :about))[0m
+  [36m123[0m  [36m[0m
+  [36m124[0m  [36m(secretary/defroute "/login" [][0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:119  column:10  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/session[0m
+
+  [36m115[0m  [36m;; Routes[0m
+  [36m116[0m  [36m(secretary/set-config! :prefix "#")[0m
+  [36m117[0m  [36m[0m
+  [36m118[0m  [36m(secretary/defroute "/" [][0m
+  [33m119[0m  [1m  (swap! session assoc :page :home))[0m
+  [0m   [0m  [33m         ^--- Use of undeclared Var theitconnection.core/session[0m
+  [36m120[0m  [36m[0m
+  [36m121[0m  [36m (secretary/defroute "/about" [][0m
+  [36m122[0m  [36m   (swap! session assoc :page :about))[0m
+  [36m123[0m  [36m[0m
+  [36m124[0m  [36m(secretary/defroute "/login" [][0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:122  column:11  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/session[0m
+
+  [36m118[0m  [36m(secretary/defroute "/" [][0m
+  [36m119[0m  [36m  (swap! session assoc :page :home))[0m
+  [36m120[0m  [36m[0m
+  [36m121[0m  [36m (secretary/defroute "/about" [][0m
+  [33m122[0m  [1m   (swap! session assoc :page :about))[0m
+  [0m   [0m  [33m          ^--- Use of undeclared Var theitconnection.core/session[0m
+  [36m123[0m  [36m[0m
+  [36m124[0m  [36m(secretary/defroute "/login" [][0m
+  [36m125[0m  [36m  (swap! session assoc :page :login))[0m
+  [36m126[0m  [36m[0m
+  [36m127[0m  [36m(secretary/defroute "/register" [][0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:122  column:11  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/session[0m
+
+  [36m118[0m  [36m(secretary/defroute "/" [][0m
+  [36m119[0m  [36m  (swap! session assoc :page :home))[0m
+  [36m120[0m  [36m[0m
+  [36m121[0m  [36m (secretary/defroute "/about" [][0m
+  [33m122[0m  [1m   (swap! session assoc :page :about))[0m
+  [0m   [0m  [33m          ^--- Use of undeclared Var theitconnection.core/session[0m
+  [36m123[0m  [36m[0m
+  [36m124[0m  [36m(secretary/defroute "/login" [][0m
+  [36m125[0m  [36m  (swap! session assoc :page :login))[0m
+  [36m126[0m  [36m[0m
+  [36m127[0m  [36m(secretary/defroute "/register" [][0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:125  column:10  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/session[0m
+
+  [36m121[0m  [36m (secretary/defroute "/about" [][0m
+  [36m122[0m  [36m   (swap! session assoc :page :about))[0m
+  [36m123[0m  [36m[0m
+  [36m124[0m  [36m(secretary/defroute "/login" [][0m
+  [33m125[0m  [1m  (swap! session assoc :page :login))[0m
+  [0m   [0m  [33m         ^--- Use of undeclared Var theitconnection.core/session[0m
+  [36m126[0m  [36m[0m
+  [36m127[0m  [36m(secretary/defroute "/register" [][0m
+  [36m128[0m  [36m  (swap! session assoc :page :register))[0m
+  [36m129[0m  [36m[0m
+  [36m130[0m  [36m;; -------------------------[0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:125  column:10  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/session[0m
+
+  [36m121[0m  [36m (secretary/defroute "/about" [][0m
+  [36m122[0m  [36m   (swap! session assoc :page :about))[0m
+  [36m123[0m  [36m[0m
+  [36m124[0m  [36m(secretary/defroute "/login" [][0m
+  [33m125[0m  [1m  (swap! session assoc :page :login))[0m
+  [0m   [0m  [33m         ^--- Use of undeclared Var theitconnection.core/session[0m
+  [36m126[0m  [36m[0m
+  [36m127[0m  [36m(secretary/defroute "/register" [][0m
+  [36m128[0m  [36m  (swap! session assoc :page :register))[0m
+  [36m129[0m  [36m[0m
+  [36m130[0m  [36m;; -------------------------[0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:128  column:10  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/session[0m
+
+  [36m124[0m  [36m(secretary/defroute "/login" [][0m
+  [36m125[0m  [36m  (swap! session assoc :page :login))[0m
+  [36m126[0m  [36m[0m
+  [36m127[0m  [36m(secretary/defroute "/register" [][0m
+  [33m128[0m  [1m  (swap! session assoc :page :register))[0m
+  [0m   [0m  [33m         ^--- Use of undeclared Var theitconnection.core/session[0m
+  [36m129[0m  [36m[0m
+  [36m130[0m  [36m;; -------------------------[0m
+  [36m131[0m  [36m;; History[0m
+  [36m132[0m  [36m;; must be called after routes have been defined[0m
+  [36m133[0m  [36m(defn hook-browser-navigation! [][0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:128  column:10  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/session[0m
+
+  [36m124[0m  [36m(secretary/defroute "/login" [][0m
+  [36m125[0m  [36m  (swap! session assoc :page :login))[0m
+  [36m126[0m  [36m[0m
+  [36m127[0m  [36m(secretary/defroute "/register" [][0m
+  [33m128[0m  [1m  (swap! session assoc :page :register))[0m
+  [0m   [0m  [33m         ^--- Use of undeclared Var theitconnection.core/session[0m
+  [36m129[0m  [36m[0m
+  [36m130[0m  [36m;; -------------------------[0m
+  [36m131[0m  [36m;; History[0m
+  [36m132[0m  [36m;; must be called after routes have been defined[0m
+  [36m133[0m  [36m(defn hook-browser-navigation! [][0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:144  column:34  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/session[0m
+
+  [36m141[0m  [36m;; -------------------------[0m
+  [36m142[0m  [36m;; Initialize app[0m
+  [36m143[0m  [36m(defn fetch-docs! [][0m
+  [33m144[0m  [1m  (GET "/docs" {:handler #(swap! session assoc :docs %)}))[0m
+  [0m   [0m  [33m                                 ^--- Use of undeclared Var theitconnection.core/session[0m
+  [36m145[0m  [36m[0m
+  [36m146[0m  [36m(defn mount-components [][0m
+  [36m147[0m  [36m  (r/render [#'navbar] (.getElementById js/document "navbar"))[0m
+  [36m148[0m  [36m  (r/render [#'page] (.getElementById js/document "app")))[0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.683 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.462 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.5 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.24 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:29  column:4  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/POSR[0m
+
+  [36m25[0m  [36m         :handler #(secretary/dispatch! "#/about")[0m
+  [36m26[0m  [36m         :error-handler #(.error js/console (str "error:" %))}))[0m
+  [36m27[0m  [36m[0m
+  [36m28[0m  [36m(defn send-login [FIELDS][0m
+  [33m29[0m  [1m  (POSR "login"[0m
+  [0m  [0m  [33m   ^--- Use of undeclared Var theitconnection.core/POSR[0m
+  [36m30[0m  [36m        {:params @FIELDS[0m
+  [36m31[0m  [36m         :handler #(secretary/dispatch! "#/about")[0m
+  [36m32[0m  [36m         :eror-handler #(.error js/console (str "error:" %))}))[0m
+  [36m33[0m  [36m[0m
+  [36m34[0m  [36m(defn register-form [][0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.906 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.96 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.854 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.717 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.884 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:88  column:57  ----[0m
+
+  [1mWrong number of args (2) passed to theitconnection.core/send-login![0m
+
+  [36m84[0m  [36m        {:type :password[0m
+  [36m85[0m  [36m         :password :password[0m
+  [36m86[0m  [36m         :on-change #(swap! FIELDS assoc :password (-> % .-target .-value))[0m
+  [36m87[0m  [36m         :value (:password @FIELDS)}]][0m
+  [33m88[0m  [1m      [:input.btn.btn-primary {:type :submit :on-click #(send-login! email password) :value "Submit"}]]])))[0m
+  [0m  [0m  [33m                                                        ^--- Wrong number of args (2) passed to theitconnection.core/send-login![0m
+  [36m89[0m  [36m[0m
+  [36m90[0m  [36m[0m
+  [36m91[0m  [36m(defn register-page [][0m
+  [36m92[0m  [36m  [:div.container[0m
+  [36m93[0m  [36m   [:div.row[0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:88  column:70  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/email[0m
+
+  [36m84[0m  [36m        {:type :password[0m
+  [36m85[0m  [36m         :password :password[0m
+  [36m86[0m  [36m         :on-change #(swap! FIELDS assoc :password (-> % .-target .-value))[0m
+  [36m87[0m  [36m         :value (:password @FIELDS)}]][0m
+  [33m88[0m  [1m      [:input.btn.btn-primary {:type :submit :on-click #(send-login! email password) :value "Submit"}]]])))[0m
+  [0m  [0m  [33m                                                                     ^--- Use of undeclared Var theitconnection.core/email[0m
+  [36m89[0m  [36m[0m
+  [36m90[0m  [36m[0m
+  [36m91[0m  [36m(defn register-page [][0m
+  [36m92[0m  [36m  [:div.container[0m
+  [36m93[0m  [36m   [:div.row[0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/theitconnection/core.cljs   line:88  column:76  ----[0m
+
+  [1mUse of undeclared Var theitconnection.core/password[0m
+
+  [36m84[0m  [36m        {:type :password[0m
+  [36m85[0m  [36m         :password :password[0m
+  [36m86[0m  [36m         :on-change #(swap! FIELDS assoc :password (-> % .-target .-value))[0m
+  [36m87[0m  [36m         :value (:password @FIELDS)}]][0m
+  [33m88[0m  [1m      [:input.btn.btn-primary {:type :submit :on-click #(send-login! email password) :value "Submit"}]]])))[0m
+  [0m  [0m  [33m                                                                           ^--- Use of undeclared Var theitconnection.core/password[0m
+  [36m89[0m  [36m[0m
+  [36m90[0m  [36m[0m
+  [36m91[0m  [36m(defn register-page [][0m
+  [36m92[0m  [36m  [:div.container[0m
+  [36m93[0m  [36m   [:div.row[0m
+
+[36m----  Compiler Warning : Please see src/cljs/theitconnection/core.cljs  ----[0m
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.712 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.553 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
