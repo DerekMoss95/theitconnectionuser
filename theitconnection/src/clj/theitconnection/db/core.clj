@@ -20,5 +20,5 @@
 (defn get-message-by-email [email]
   (mc/find-one db "customers" {:email email}))
 
-(defn login [params]
-  (mc/find-one db "customers" {:email params :password params}))
+(defn login [email password]
+  (mc/find-one db "customers" {:email email :password password}))

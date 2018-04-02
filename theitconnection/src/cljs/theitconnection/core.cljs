@@ -16,8 +16,7 @@
  (defn about-page []
    [:div.container
     [:div.row
-     [:div.col-md-12
-      [:img {:src (str js/context "/img/warning_clojure.png")}]]]])
+     [:div.col-md-12 "Welcome! You are logged in!"]]])
 
 (defn send-form! [FIELDS]
   (POST "/register"
@@ -134,7 +133,7 @@
    [:div#collapsing-navbar.collapse.navbar-collapse
     [:ul.nav.navbar-nav.mr-auto
      [nav-link "#/" "Home" :home]
-     [nav-link "#/about" "About" :about]
+     ;[nav-link "#/about" "About" :about]
      [nav-link "#/register" "Register" :register]
      [nav-link "#/login" "Login" :login]]]])
 
