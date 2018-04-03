@@ -3794,3 +3794,95 @@ notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnec
 Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
 [32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.95 seconds.[0m
 notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.608 seconds.[0m
+[36m----  Could not Analyze  src/cljs/theitconnection/core.cljs   line:108  column:1  ----[0m
+
+  [1mUnable to resolve var: about-page in this context at line 108 src/cljs/theitconnection/core.cljs[0m
+
+  [36m106[0m  [36m      [:div "Welcome to the IT Connection! Please sign up and log in!"]])])[0m
+  [36m107[0m  [36m[0m
+  [33m108[0m  [1m(def pages[0m
+  [0m   [0m  [33m^--- Unable to resolve var: about-page in this context at line 108 src/cljs/theitconnection/core.cljs[0m
+  [36m109[0m  [36m  {:home #'home-page[0m
+  [36m110[0m  [36m   :about #'about-page[0m
+  [36m111[0m  [36m   :register #'register-page[0m
+
+[36m----  Analysis Error : Please see src/cljs/theitconnection/core.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.472 seconds.[0m
+[36m----  Could not Analyze  src/cljs/theitconnection/core.cljs   line:108  column:1  ----[0m
+
+  [1mUnable to resolve var: about-page in this context at line 108 src/cljs/theitconnection/core.cljs[0m
+
+  [36m106[0m  [36m      [:div "Welcome to the IT Connection! Please sign up and log in!"]])])[0m
+  [36m107[0m  [36m[0m
+  [33m108[0m  [1m(def pages[0m
+  [0m   [0m  [33m^--- Unable to resolve var: about-page in this context at line 108 src/cljs/theitconnection/core.cljs[0m
+  [36m109[0m  [36m  {:home #'home-page[0m
+  [36m110[0m  [36m   :login-success #'about-page[0m
+  [36m111[0m  [36m   :register #'register-page[0m
+
+[36m----  Analysis Error : Please see src/cljs/theitconnection/core.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[31mFailed to compile build :app from ["src/cljs" "src/cljc" "env/dev/cljs"] in 0.394 seconds.[0m
+[36m----  Could not Analyze  src/cljs/theitconnection/core.cljs   line:108  column:1  ----[0m
+
+  [1mUnable to resolve var: login-success-page in this context at line 108 src/cljs/theitconnection/core.cljs[0m
+
+  [36m106[0m  [36m      [:div "Welcome to the IT Connection! Please sign up and log in!"]])])[0m
+  [36m107[0m  [36m[0m
+  [33m108[0m  [1m(def pages[0m
+  [0m   [0m  [33m^--- Unable to resolve var: login-success-page in this context at line 108 src/cljs/theitconnection/core.cljs[0m
+  [36m109[0m  [36m  {:home #'home-page[0m
+  [36m110[0m  [36m   :login-success #'login-success-page[0m
+  [36m111[0m  [36m   :register #'register-page[0m
+
+[36m----  Analysis Error : Please see src/cljs/theitconnection/core.cljs  ----[0m
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.848 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.648 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.671 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.593 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.615 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.601 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.564 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.713 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.692 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.631 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.654 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.547 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.599 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.601 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js
+Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
+[32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 0.569 seconds.[0m
+notifying browser that file changed:  target/cljsbuild/public/js/out/theitconnection/core.js

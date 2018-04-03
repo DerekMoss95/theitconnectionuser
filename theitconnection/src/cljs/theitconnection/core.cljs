@@ -13,22 +13,32 @@
 
 (defonce session (r/atom {:page :home}))
 
- (defn about-page []
+ (defn login-success-page []
    [:div.container
     [:div.row
      [:div.col-md-12 "Welcome! You are logged in!"]]])
 
+ (defn register-success-page []
+   [:div.container
+    [:div.row
+     [:div.col-md-12 "Welcome! You are now registered!"]]])
+
+ (defn login-failure-page []
+   [:div.container
+    [:div.row
+     [:div.col-md-12 "Login was unsuccessful"]]])
+
 (defn send-form! [FIELDS]
   (POST "/register"
         {:params @FIELDS
-         :handler #(secretary/dispatch! "#/about")
+         :handler #(secretary/dispatch! "#/register-success")
          :error-handler #(.error js/console (str "error:" %))}))
 
 (defn send-login! [FIELDS]
   (POST "/login"
         {:params @FIELDS
-         :handler #(secretary/dispatch! "#/about")
-         :eror-handler #(.error js/console (str "error:" %))}))
+         :handler #(secretary/dispatch! "#/login-success")
+         :error-handler #(secretary/dispatch! "#/login-failure")}))
 
 (defn register-form []
   (let [FIELDS (atom {})]
@@ -103,12 +113,13 @@
   [:div.container
    (when-let [docs (:docs @session)]
      [:div.row>div.col-sm-12
-      [:div {:dangerouslySetInnerHTML
-             {:__html (md->html docs)}}]])])
+      [:div "Welcome to the IT Connection! Please sign up and log in!"]])])
 
 (def pages
   {:home #'home-page
-   :about #'about-page
+   :login-success #'login-success-page
+   :login-failure #'login-failure-page
+   :register-success #'register-success-page
    :register #'register-page
    :login #'login-page
    })
@@ -129,10 +140,10 @@
      :data-toggle "collapse"
      :data-target "#collapsing-navbar"}
     [:span.navbar-toggler-icon]]
-   [:a.navbar-brand {:href "#/"} "theitconnection"]
+   [:a.navbar-brand {:href "#/"} "The IT Connection!"]
    [:div#collapsing-navbar.collapse.navbar-collapse
     [:ul.nav.navbar-nav.mr-auto
-     [nav-link "#/" "Home" :home]
+     ;[nav-link "#/" "Home" :home]
      ;[nav-link "#/about" "About" :about]
      [nav-link "#/register" "Register" :register]
      [nav-link "#/login" "Login" :login]]]])
@@ -143,6 +154,15 @@
 
 (secretary/defroute "/" []
   (swap! session assoc :page :home))
+
+(secretary/defroute "/login-success" []
+  (swap! session assoc :page :login-success))
+
+(secretary/defroute "/login-failure" []
+  (swap! session assoc :page :login-failure))
+
+(secretary/defroute "/register-success" []
+  (swap! session assoc :page :register-success))
 
  (secretary/defroute "/about" []
    (swap! session assoc :page :about))

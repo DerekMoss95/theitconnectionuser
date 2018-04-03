@@ -39,7 +39,7 @@
        (-> (response/ok (-> "docs/docs.md" io/resource slurp))
            (response/header "Content-Type" "text/plain; charset=utf-8")))
   (POST "/register" req
-        (save-message req))
+        (response/ok (save-message req)))
   (POST "/login" [email password]
         (when-let [email (db/login email password)]
           (response/ok (str email "Logged in")))))
